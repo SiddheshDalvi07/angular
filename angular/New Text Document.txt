@@ -1,0 +1,5 @@
+step 1 : npm install -g @angular/cli  
+Step 2 : ng new my-app --no-standalone --routing
+Step 3 : cd my-app
+Step 4 : ng serve -0 / ng s
+Step 5 : programming with mosh {typescript language}
